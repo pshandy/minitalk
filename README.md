@@ -11,3 +11,5 @@
 - ./server
 
 - ./client [pid] [message]
+
+![screenshot](/example.png?raw=true)
