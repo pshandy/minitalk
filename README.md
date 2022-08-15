@@ -8,6 +8,6 @@
  
 # Запуск
 
-./server
+- ./server
 
-./client [pid] [message]
+- ./client [pid] [message]
